@@ -1,0 +1,2 @@
+File	BLEU	NIST	METEOR	ROUGE_L	CIDEr
+/content/drive/MyDrive/E2E/eval/src/base/prefix_datasete2e_lr5e-05_prefixlen5_test.txt	0.6957	8.8369	0.4646	0.7051	2.4624
